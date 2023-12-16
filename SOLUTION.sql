@@ -88,8 +88,7 @@ dense_rank () over (partition by datepart(hour, purchase_timeconvert) order by p
 from purchase_history_dataset$
 --group by purchase_timeconvert
 )
-select purchase_hour, busiest_hour
-from tl
+
 
 
  

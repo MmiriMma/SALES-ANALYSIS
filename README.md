@@ -16,6 +16,7 @@ the functions used were
 - Round, 
 - convert,
 - add fuction
+ [ DATA CLEANING.sql](url)
 
  ### CASE STUDY QUESTIONS
 

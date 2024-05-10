@@ -7,8 +7,8 @@
  - Purchase History Dataset
  - Products dataset
 
-Data cleaning was done with sql
-the functions used were 
+I used SQL for Data Cleaning,
+the functions used were
 - date functions, 
 - update statement, 
 - drop table, 

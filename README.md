@@ -17,7 +17,7 @@ the functions used were
 - convert,
 - add fuction
 
- [ DATA CLEANING.sql](https://github.com/MmiriMma/SALES-ANALYSIS/commit/7d1e992d9b0791d987fc149e8aa4c6d4c707e683)
+    [ DATA CLEANING.sql](https://github.com/MmiriMma/SALES-ANALYSIS/commit/7d1e992d9b0791d987fc149e8aa4c6d4c707e683)
 
  ### CASE STUDY QUESTIONS
 

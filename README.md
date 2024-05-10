@@ -34,3 +34,4 @@ the functions used were
  7. Cities With The Highest Number Of customers?
  8. First Signed Up Customer And The Last Time Thhey Bought?
  9. The Age Demography Of the Customers?
+      [ SOLUTION.sql]()
